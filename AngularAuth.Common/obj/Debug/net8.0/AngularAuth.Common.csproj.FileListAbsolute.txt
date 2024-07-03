@@ -1,0 +1,14 @@
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\bin\Debug\net8.0\AngularAuth.Common.deps.json
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\bin\Debug\net8.0\AngularAuth.Common.runtimeconfig.json
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\bin\Debug\net8.0\AngularAuth.Common.dll
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\bin\Debug\net8.0\AngularAuth.Common.pdb
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.csproj.AssemblyReference.cache
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.AssemblyInfoInputs.cache
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.AssemblyInfo.cs
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.csproj.CoreCompileInputs.cache
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.dll
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\refint\AngularAuth.Common.dll
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.pdb
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\AngularAuth.Common.genruntimeconfig.cache
+D:\Project Learning\Angular\Angular Auth\AngularAuthAPI\AngularAuthAPI\AngularAuth.Common\obj\Debug\net8.0\ref\AngularAuth.Common.dll

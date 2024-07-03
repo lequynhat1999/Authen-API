@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FC7E3D-F4C0-4DD3-A5D1-E218D6EBFD1E}|AngularAuthAPI\\AngularAuth.API.csproj|d:\\project learning\\angular\\angular auth\\angularauthapi\\angularauthapi\\angularauthapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FC7E3D-F4C0-4DD3-A5D1-E218D6EBFD1E}|AngularAuthAPI\\AngularAuth.API.csproj|solutionrelative:angularauthapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FC7E3D-F4C0-4DD3-A5D1-E218D6EBFD1E}|AngularAuthAPI\\AngularAuth.API.csproj|d:\\project learning\\angular\\angular auth\\angularauthapi\\angularauthapi\\angularauthapi\\utilityservice\\emailservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FC7E3D-F4C0-4DD3-A5D1-E218D6EBFD1E}|AngularAuthAPI\\AngularAuth.API.csproj|solutionrelative:angularauthapi\\utilityservice\\emailservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FC7E3D-F4C0-4DD3-A5D1-E218D6EBFD1E}|AngularAuthAPI\\AngularAuth.API.csproj|d:\\project learning\\angular\\angular auth\\angularauthapi\\angularauthapi\\angularauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26FC7E3D-F4C0-4DD3-A5D1-E218D6EBFD1E}|AngularAuthAPI\\AngularAuth.API.csproj|solutionrelative:angularauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AngularAuthAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AngularAuthAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAApwDcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:04:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularAuthAPI\\appsettings.json",
+              "ToolTip": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI\\appsettings.json",
+              "RelativeToolTip": "AngularAuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T16:03:59.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailServiceBL.cs",
+              "DocumentMoniker": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI\\UtilityService\\EmailServiceBL.cs",
+              "RelativeDocumentMoniker": "AngularAuthAPI\\UtilityService\\EmailServiceBL.cs",
+              "ToolTip": "D:\\Project Learning\\Angular\\Angular Auth\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI\\UtilityService\\EmailServiceBL.cs",
+              "RelativeToolTip": "AngularAuthAPI\\UtilityService\\EmailServiceBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:45:41.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
